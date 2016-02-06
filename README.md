@@ -1,7 +1,8 @@
-Applesauce
-==========
+#Applesauce
+
 Overview
 --------
+
 ##Why Applesauce?
 
 Because nothing else makes sense.
