@@ -1,1 +1,5 @@
-console.log ("Hello, applesauce.");
+var sayHi = function () {
+  console.log ("Hello, applesauce.");
+}
+
+
